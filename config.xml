@@ -16,5 +16,6 @@
   <author href="https://build.phonegap.com" email="support@phonegap.com">
       Simon Krahmer
   </author>
+    <icon src="icon.png"/>
 
 </widget>
